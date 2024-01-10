@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Upsetin
-- 📫 xiaobaiyeaidaima@gmai.com
+- 📫 xiaobaiyeaidaima@gmail.com
 
 <!---
 Upsetin/Upsetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
